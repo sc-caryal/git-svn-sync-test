@@ -1,4 +1,5 @@
 #!/bin/sh
+CHASNGE
 
 #Added a line to instances.sh
 
