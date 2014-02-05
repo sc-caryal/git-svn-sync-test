@@ -1,0 +1,8 @@
+tree 8fd524f16bb11208ee55c1eca285eb40f490efcf
+parent cc721dca7eed8fdb6e6b54983cb2803c5bd447fd
+author Chudamani Aryal <caryal@stonecobra.com> 1386115972 +0000
+committer Chudamani Aryal <caryal@stonecobra.com> 1386115972 +0000
+
+Changed instances.sh
+
+git-svn-id: https://svn.stonecobra.com/repos/stonecobra/myfiles/caryal@17812 c6bb0b0d-f9e5-0310-a4db-d5f649231f54
